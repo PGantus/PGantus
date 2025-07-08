@@ -6,7 +6,6 @@
 
 ## <picture><img src = "https://images.emojiterra.com/google/android-12l/512px/1f4cc.png" width = 20px></picture> **Sobre mí**
 - Rápido aprendizaje y autonomía
-- Scripting en bash
 - Estudiante de ciberdefensa
 - Conocimiento básico en redes y hardware
 - Amante del pentesting y la ciberseguridad <3
